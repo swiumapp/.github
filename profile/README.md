@@ -18,6 +18,9 @@ Iris is the desktop application for Swium. It is designed to provide a seamless 
 
 Orchid is the mobile application for Swium. It is optimized for smartphones and tablets, ensuring that users can enjoy their favorite comics on the go.
 
+#### [swium-cli](https://github.com/swiumapp/swium-cli)
+The Swium cli enables developers to create, manage and publish for the Swium platform.
+
 #### [swium-addon-sdk](https://github.com/swiumapp/swium-addon-sdk)
 
 The Swium Addon SDK enables developers to create addons for the Swium platform. These addons enhance the functionality of Swium and provide users with additional features and customizations.
