@@ -2,34 +2,7 @@
 
 Swium is a comic reading platform that offers creators a unique opportunity for monetization by compensating them through platform advertising. Here is an overview of the projects under the Swium organization:
 
----
-
-### Projects
-
-#### [azaleas](https://github.com/swiumapp/azaleas)
-
-Azaleas is the web-based frontend client for Swium. It provides users with an interactive and dynamic interface for discovering and reading comics.
-
-#### [iris](https://github.com/swiumapp/iris)
-
-Iris is the desktop application for Swium. It is designed to provide a seamless and immersive comic reading experience on desktops and laptops.
-
-#### [orchid](https://github.com/swiumapp/orchid)
-
-Orchid is the mobile application for Swium. It is optimized for smartphones and tablets, ensuring that users can enjoy their favorite comics on the go.
-
-#### [swium-cli](https://github.com/swiumapp/swium-cli)
-The Swium cli enables developers to create, manage and publish for the Swium platform.
-
-#### [swium-addon-sdk](https://github.com/swiumapp/swium-addon-sdk)
-
-The Swium Addon SDK enables developers to create addons for the Swium platform. These addons enhance the functionality of Swium and provide users with additional features and customizations.
-
-#### [website](https://github.com/swiumapp/website)
-
-The Swium website is the primary online presence for the platform. It serves as a hub for users to learn more about Swium, sign up for an account, and access the various client applications.
-
----
+----
 
 ### Contributing
 
