@@ -6,8 +6,12 @@ We welcome contributions from the community! If you are interested in contributi
 
 We have adopted a [code of conduct](https://github.com/swiumapp/.github/blob/main/CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community. Please familiarize yourself with it before engaging with us.
 
-### License
+### Licenses
 
+#### Icons and Logos
+All icons and logos come from [lucide](https://lucide.dev/)
+
+#### Swium
 The Swium projects are licensed under the [MIT License](https://github.com/swiumapp/.github/blob/main/LICENSE). Feel free to use, modify, and distribute our code according to the terms of this license.
 
 ---
