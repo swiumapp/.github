@@ -1,9 +1,3 @@
-**Swium Platform**
-
-Swium is a comic reading platform that offers creators a unique opportunity for monetization by compensating them through platform advertising. Here is an overview of the projects under the Swium organization:
-
-----
-
 ### Contributing
 
 We welcome contributions from the community! If you are interested in contributing to any of our projects, please follow our [contribution guidelines](https://github.com/swium/.github/blob/main/CONTRIBUTING.md) and feel free to reach out to us on [Discussions](https://github.com/swiumapp/.github/discussions).
